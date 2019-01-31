@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-   "dependencies": {
-   }
+  "scripts": {
+  "start": "nodemon"
+},
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
 }
